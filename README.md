@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Bikas Dahal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -19,11 +19,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+👋 Hello, world! I’m an AI enthusiast with a deep passion for Deep Learning.
+🎯 Specializing in PyTorch, I’ve spent significant time working with this powerful library.
+🌐 My journey in the tech industry has been exciting and diverse, with a significant part of it spent working with Django for web development.
+💡 I’m fascinated by the potential of technology to transform lives and industries.
+📚 Beyond the world of code and algorithms, I’m deeply intrigued by philosophy and consciousness.
+🤔 I believe that these fields, though seemingly disparate, share a common goal: to decode the mysteries of existence.
+🌌 In my spare time, I love to delve into philosophical discussions, pondering the nature of consciousness and its place in our understanding of reality.
+🚀 Let’s connect and embark on this exciting journey together, exploring the infinite possibilities that lie in the intersection of technology, philosophy, and consciousness.
 
 <br><br>
 
@@ -35,6 +38,12 @@
 <p align="center">
 
 - **Languages**:
+
+- !JavaScript
+- !Python
+- !PyTorch
+- !Django
+
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
