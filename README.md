@@ -4,13 +4,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaskaaram+O+..🙏&hearts;++;Computer+Science+Student,;DEEP+Learning,;Active+Learner/Researcher/,;Philosophy+Newbie,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
 <br>
-
-
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -20,12 +18,14 @@
 <br>
 
 👋 Hello, world! I’m an AI enthusiast with a deep passion for Deep Learning.
+<br>
 🎯 Specializing in PyTorch, I’ve spent significant time working with this powerful library.
-🌐 My journey in the tech industry has been exciting and diverse, with a significant part of it spent working with Django for web development.
-💡 I’m fascinated by the potential of technology to transform lives and industries.
-📚 Beyond the world of code and algorithms, I’m deeply intrigued by philosophy and consciousness.
-🤔 I believe that these fields, though seemingly disparate, share a common goal: to decode the mysteries of existence.
-🌌 In my spare time, I love to delve into philosophical discussions, pondering the nature of consciousness and its place in our understanding of reality.
+<br>
+🌐 My journey in the tech industry has been exciting and diverse, with a significant part of it spent working with Django for web development.<br>
+💡 I’m fascinated by the potential of technology to transform lives and industries.<br>
+📚 Beyond the world of code and algorithms, I’m deeply intrigued by philosophy and consciousness.<br>
+🤔 I believe that these fields, though seemingly disparate, share a common goal: to decode the mysteries of existence.<br>
+🌌 In my spare time, I love to delve into philosophical discussions, pondering the nature of consciousness and its place in our understanding of reality.<br>
 🚀 Let’s connect and embark on this exciting journey together, exploring the infinite possibilities that lie in the intersection of technology, philosophy, and consciousness.
 
 <br><br>
