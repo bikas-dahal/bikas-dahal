@@ -32,9 +32,9 @@
 
 - **Languages, Libraries, Framework**:
 
-  ![Pytorch](https://img.shields.io/badge/PyTorch%20-%2314354C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
   ![Django](https://img.shields.io/badge/Django%20-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Pytorch](https://img.shields.io/badge/PyTorch%20-%2314354C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 
