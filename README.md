@@ -13,7 +13,7 @@
 
 👋 Hello, world! I’m an AI enthusiast with a deep passion for Deep Learning.
 <br>
-🎯 Specializing in PyTorch, I’ve spent significant time working with this powerful library.
+🎯 In PyTorch, I’ve spent significant time working with this powerful library.
 <br>
 🌐 My journey in the tech industry has been exciting and diverse, with a significant part of it spent working with Django for web development.<br>
 💡 I’m fascinated by the potential of technology to transform lives and industries.<br>
