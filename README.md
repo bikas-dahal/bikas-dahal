@@ -79,7 +79,7 @@ AI-powered exam preparation platform built with Next.js App Router and Prisma.
 - Progressive Web App (PWA) support
 - Server Actions integration
 
-🔗 https://makerhub.social
+🔗 https://makerhub.tech
 
 ---
 
